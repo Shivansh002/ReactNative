@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "screens/assets/fonts/BebasNeue-Regular.ttf",
+      "sha1": "ac208c2416e2ad9f6324697b98b8fc7ccb338f9e"
+    },
+    {
+      "path": "screens/assets/fonts/MonomaniacOne-Regular.ttf",
+      "sha1": "fac459654a103f585bbd20634f427e5026a5178b"
+    },
+    {
+      "path": "screens/assets/fonts/DancingScript-Regular.ttf",
+      "sha1": "ec6129bdebcae61a210c9f6e917f9be7e628e229"
+    },
+    {
+      "path": "screens/assets/fonts/DancingScript-SemiBold.ttf",
+      "sha1": "931d54cf0a5753a5267a4d5c7036bdb2b24906d6"
+    },
+    {
+      "path": "screens/assets/fonts/DancingScript-Medium.ttf",
+      "sha1": "e60c49ad2af4b82f891dae18e4e703577a00d5f1"
+    },
+    {
+      "path": "screens/assets/fonts/DancingScript-VariableFont_wght.ttf",
+      "sha1": "6dfdbbc80c82992b9bb0d32bfb53507cd1665497"
+    },
+    {
+      "path": "screens/assets/fonts/DancingScript-Bold.ttf",
+      "sha1": "f903ff117b4b4ed6a71e19745ce380cceb0e561c"
+    }
+  ]
+}
