@@ -34,7 +34,7 @@ const taskStyle = StyleSheet.create({
     padding: 50,
 
     shadowColor: '#000',
-    elevation: 5,
+    elevation: 50,
   },
   modalInput: {
     borderWidth: 1,
